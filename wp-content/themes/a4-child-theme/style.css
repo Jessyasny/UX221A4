@@ -1,0 +1,12 @@
+/*
+Theme Name:     A4 child theme
+Description:    theme for A4
+Author:         jessyasny
+Template:       hello-elementor
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+a{
+    color: #48cd6b;
+}
